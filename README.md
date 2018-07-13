@@ -1,0 +1,2 @@
+# symbol_coding_tutorials_of_MXNet
+MXNet符号式编程中文教程
